@@ -5,6 +5,7 @@ Join my [Discord](http://discord.gg/novusterminus)
 
 Inspired by [VzBoT](https://github.com/VzBoT3D)
 
+If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
 ![20240822_161246](https://github.com/user-attachments/assets/0b77a877-bf09-4d68-9f07-7f6a1c3a84c6)
 
