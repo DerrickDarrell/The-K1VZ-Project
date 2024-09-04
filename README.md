@@ -1,7 +1,7 @@
 # The-K1VZ-Project
 This is a heavily modifed Creality K1/K1 Max inspired by [VzBoT](https://github.com/VzBoT3D)
 
-THIS GIT IS A WORK IN PROGRESS. CAD HAS BEEN UPLOADED, STLS AND BOM COMING SOON
+THIS REPO IS A WORK IN PROGRESS. CAD HAS BEEN UPLOADED, STLS AND BOM COMING SOON
 
 Join my [Discord](http://discord.gg/novusterminus)
 
