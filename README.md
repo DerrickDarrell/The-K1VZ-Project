@@ -1,5 +1,6 @@
 # The-K1VZ-Project
 Heavily modifed Creality K1/K1 Max
+Inspired by [VzBoT](https://github.com/VzBoT3D)
 
 
 ![20240822_161246](https://github.com/user-attachments/assets/0b77a877-bf09-4d68-9f07-7f6a1c3a84c6)
