@@ -1,9 +1,10 @@
 # The-K1VZ-Project
-Heavily modifed Creality K1/K1 Max
+This is a heavily modifed Creality K1/K1 Max inspired by [VzBoT](https://github.com/VzBoT3D)
+
+CONSIDER THIS A WORK IN PROGRESS
 
 Join my [Discord](http://discord.gg/novusterminus)
 
-Inspired by [VzBoT](https://github.com/VzBoT3D)
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
