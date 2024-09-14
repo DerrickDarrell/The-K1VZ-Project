@@ -29,9 +29,14 @@ Settings I used for most of the gantry
 ![20240818_021343](https://github.com/user-attachments/assets/09ec1371-811f-4193-84d1-faf60df8335b)
 
 
+# K1VZ
+![Figure_sadfh3](https://github.com/user-attachments/assets/e168ebe1-d99e-41e4-97cd-0f41ced3cc51)
+![Figure_szdfh4](https://github.com/user-attachments/assets/13b74234-dc4e-4a9c-9b2f-4912acd05629)
 
 
-
+# K1VZ Max
+![inputshaper_20240913_192055_X](https://github.com/user-attachments/assets/b4ae6fa0-cbba-449d-9286-412bd7fe2b34)
+![inputshaper_20240913_192055_Y](https://github.com/user-attachments/assets/162e90ab-5d48-42eb-8aa5-c0a20416a700)
 
 
 
