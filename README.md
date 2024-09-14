@@ -6,9 +6,11 @@ This is a heavily modifed Creality K1/K1 Max inspired by [VzBoT](https://github.
 
 Join my [Discord](http://discord.gg/novusterminus)
 
-[K1VZ 3D Viewer](https://collaborate.shapr3d.com/v/g7WvazfItJmMossNty6Cj)
+[K1VZ Toolhead 3D Viewer](https://collaborate.shapr3d.com/v/Mu9zn_hOX8JQScig5GLuY)
 
-[K1VZ Max 3D Viewer](https://collaborate.shapr3d.com/v/ZGCv1NjKbROWeMaYcBegq)
+[K1VZ Gantry 3D Viewer](https://collaborate.shapr3d.com/v/g7WvazfItJmMossNty6Cj)
+
+[K1VZ Max Gantry 3D Viewer](https://collaborate.shapr3d.com/v/ZGCv1NjKbROWeMaYcBegq)
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
@@ -27,6 +29,7 @@ Settings I used for most of the gantry
 ![20240822_161246](https://github.com/user-attachments/assets/0b77a877-bf09-4d68-9f07-7f6a1c3a84c6)
 
 ![20240818_021343](https://github.com/user-attachments/assets/09ec1371-811f-4193-84d1-faf60df8335b)
+
 
 
 # K1VZ
