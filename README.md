@@ -2,7 +2,10 @@
 THIS REPO IS A WORK IN PROGRESS
 
 ## INTRODUCTION
-This is a heavily modifed Creality K1/K1 Max inspired by [VzBoT](https://github.com/VzBoT3D). Why? Because why the hell not?! If you're still not convinced, this isn't for you.
+The K1VZ is a heavily modifed Creality K1/K1 Max inspired by [VzBoT](https://github.com/VzBoT3D).
+This is a challenging mod with no step-by-step guide. Not for everyone.
+
+Why? Because why the hell not?! If you're still not convinced, this isn't for you.
 
 Join my [Discord](http://discord.gg/novusterminus)
 
