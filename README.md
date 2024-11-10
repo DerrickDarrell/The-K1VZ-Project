@@ -7,7 +7,7 @@ This is a challenging mod with no step-by-step guide. Not for everyone.
 
 Why? Because why the hell not?! If you're still not convinced, this isn't for you.
 
-Join my [Discord](http://discord.gg/novusterminus)
+Join my [Discord](http://discord.gg/r5QzHBZ8SH)
 
 [K1VZ Toolhead 3D Viewer](https://collaborate.shapr3d.com/v/Mu9zn_hOX8JQScig5GLuY)
 
