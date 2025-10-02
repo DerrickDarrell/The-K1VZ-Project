@@ -7,12 +7,6 @@ This is a challenging mod with no step-by-step guide. Not for everyone.
 
 Why? Because why the hell not?! If you're still not convinced, this isn't for you.
 
-[K1VZ Toolhead 3D Viewer](https://collaborate.shapr3d.com/v/Mu9zn_hOX8JQScig5GLuY)
-
-[K1VZ Gantry 3D Viewer](https://collaborate.shapr3d.com/v/g7WvazfItJmMossNty6Cj)
-
-[K1VZ Max Gantry 3D Viewer](https://collaborate.shapr3d.com/v/ZGCv1NjKbROWeMaYcBegq)
-
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
 ## BOM
