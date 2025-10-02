@@ -9,9 +9,6 @@ Why? Because why the hell not?! If you're still not convinced, this isn't for yo
 
 If you like my work consider [buying me a ko-fi](https://ko-fi.com/derrickdarrell) ☕😊 Your support is greatly appreciated.
 
-## BOM
-
-Coming Soon
 
 ## Print Settings
 Settings I used for most of the gantry
